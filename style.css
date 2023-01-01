@@ -6,4 +6,22 @@ html, body {
   h1{
     font-family: 'Roboto', sans-serif;
   }
-  
+  html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(246, 184, 184)
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  color: red;
+}
+
+footer {
+  text-align: center;
+  color: red;
+  margin-top: 2rem;
+}
